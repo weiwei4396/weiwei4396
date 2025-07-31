@@ -1,4 +1,4 @@
-#### 👋 Hi, I’m Pan Wei, currently a PhD candidate at the Beijing Institute of Genomics.
+#### 👋 Hi, I’m Pan Wei.
 #### 🧬 I apply data science and artificial intelligence to explore complex biological challenges.
 #### 📩 How to reach me ? Email：weipan4396@gmail.com
 
