@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=weiwei4396&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?weiwei4396=page.id&left_color=green&right_color=red)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiwei4396&count_private=true&show_icons=true&theme=great-gatsby)
 
 
