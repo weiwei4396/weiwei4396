@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=weiwei4396)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiwei4396&count_private=true&show_icons=true&theme=great-gatsby)
+
 
 
