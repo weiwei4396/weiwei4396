@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/weiwei4396/weiwei4396/output/github-contribution-grid-snake.svg">
 </picture>
 
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=weiwei4396)
+
 
